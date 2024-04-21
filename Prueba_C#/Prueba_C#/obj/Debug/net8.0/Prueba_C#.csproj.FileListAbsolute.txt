@@ -1,0 +1,14 @@
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\bin\Debug\net8.0\Prueba_C#.exe
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\bin\Debug\net8.0\Prueba_C#.deps.json
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\bin\Debug\net8.0\Prueba_C#.runtimeconfig.json
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\bin\Debug\net8.0\Prueba_C#.dll
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\bin\Debug\net8.0\Prueba_C#.pdb
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\Prueba_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\Prueba_C#.AssemblyInfoInputs.cache
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\Prueba_C#.AssemblyInfo.cs
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\Prueba_C#.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\Prueba_C#.dll
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\refint\Prueba_C#.dll
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\Prueba_C#.pdb
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\Prueba_C#.genruntimeconfig.cache
+C:\Users\frank\OneDrive\Documents\Universidad\Introducción a la Ingeniería de Software\Prueba_C#\Prueba_C#\obj\Debug\net8.0\ref\Prueba_C#.dll
